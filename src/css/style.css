@@ -1,0 +1,33 @@
+.color-red{
+    color: #DC3545;
+}
+
+.color-green{
+    color: #198754;
+}
+
+.city{
+    font-size: 30px;
+}
+
+.date{
+    font-size: 16px;
+}
+
+.container-temp{
+    justify-content: center;
+    display: flex;
+    font-size:100px;
+    background: rgba(0,0,0, 0.2 );
+    box-shadow: 5px 6px rgba(0,0,0, 0.6 );
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(0,0,0, 0.2 );
+}
+
+.weather{
+    font-size: 32px;
+}
+
+.h1-low{
+    font-size: 22px;
+}
