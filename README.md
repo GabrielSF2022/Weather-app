@@ -1,13 +1,13 @@
 # <div align="center">📌TELA DE LOGIN📌 </div>
 <h1 align="center">TELA DE LOGIN!!!!
 
-![Form Validação - Google Chrome 2022-12-11 20-30-56](https://user-images.githubusercontent.com/97768716/206935895-e441b8bf-6638-4c9f-8b87-5b4d7700bcd1.gif)
+![Tempo e Temperatura - Google Chrome 2022-12-16 19-23-56](https://user-images.githubusercontent.com/97768716/208199536-8c6edbde-9b43-4ce3-99ee-13ab80003801.gif)
 
-![Design_sem_nome-removebg-preview](https://user-images.githubusercontent.com/97768716/206936185-5e35d01f-13de-456a-a689-e10aa4ba054b.png)
+![Design_sem_nome-removebg-preview-removebg-preview](https://user-images.githubusercontent.com/97768716/208200158-94c4022e-6561-46fc-b411-0ad51174c6e4.png)
 
   
   <h2 align="center">
-  <a href="https://gabrielsf2022.github.io/form-validacao-javascript/" target="_blank"> Veja o site </a>
+  <a href="https://gabrielsf2022.github.io/Weather-app/" target="_blank"> Veja o site </a>
 </h2>
 
   
@@ -15,15 +15,15 @@
 # Descrição do projeto
 
 
-1. Verificação se o usuário tem pelo menos 3 caracteres, se não tiver ira aparecer um borda vermelha no input e uma mensagem com um aviso.
+1. API openweathermap, onde é pegado os dados .
 
-2. Uso de Regex para validar o email que for dito pelo usuario.
+2. Se ocorrer um erro como cidade não existente ou algum erro na API o usuário sera avisado.
 
-3. Icone de olho para deixar a senha visivel e voltar ao normal.
+3. Botão enter do teclado configurado para ativar o código.
 
-4. Comparador de senha, onde as senhas devem ser iguais, se não ira exibir uma mensagem de aviso e as bordas vão ficar vermelhas.
+4. Se tudo estiver ok, ira aparecer o nome da Cidade e a sigla do Pais, uma imagem para representar como estáo tempo no horario de pesquisa e a temperatura  
+  
 
-5. Quando clicar no botão de enviar, se algum input estiver errado ira exibir uma mensagem nos inputs que tiverem algum erro.
 
 
 
